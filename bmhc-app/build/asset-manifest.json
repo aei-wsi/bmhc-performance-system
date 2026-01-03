@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b60adec6.css",
-    "main.js": "/static/js/main.2699425b.js",
-    "static/js/453.d09b201b.chunk.js": "/static/js/453.d09b201b.chunk.js",
-    "index.html": "/index.html",
-    "main.b60adec6.css.map": "/static/css/main.b60adec6.css.map",
-    "main.2699425b.js.map": "/static/js/main.2699425b.js.map",
-    "453.d09b201b.chunk.js.map": "/static/js/453.d09b201b.chunk.js.map"
+    "main.css": "/bmhc-performance-system/static/css/main.b60adec6.css",
+    "main.js": "/bmhc-performance-system/static/js/main.ad202e97.js",
+    "static/js/453.d09b201b.chunk.js": "/bmhc-performance-system/static/js/453.d09b201b.chunk.js",
+    "index.html": "/bmhc-performance-system/index.html",
+    "main.b60adec6.css.map": "/bmhc-performance-system/static/css/main.b60adec6.css.map",
+    "main.ad202e97.js.map": "/bmhc-performance-system/static/js/main.ad202e97.js.map",
+    "453.d09b201b.chunk.js.map": "/bmhc-performance-system/static/js/453.d09b201b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b60adec6.css",
-    "static/js/main.2699425b.js"
+    "static/js/main.ad202e97.js"
   ]
 }
